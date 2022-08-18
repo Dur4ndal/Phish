@@ -28,6 +28,7 @@ print 'Git install'
 
 #docker.io install
 apt-get install docker.io -y
+apt-get install docker-compose -y
 print 'Docker install'
 
 #C2 install
